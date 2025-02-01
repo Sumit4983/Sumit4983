@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Associate L2 at [Publicis Sapients](https://www.publicissapient.com/)
+Senior Associate Data Engineering L2 at [Publicis Sapients](https://www.publicissapient.com/)
 - 🔭 Building and optimizing data pipelines, creating efficient ETL processes, and exploring cool ways to store and manage large datasets using technologies like Hadoop, Kafka, Spark, and Elasticsearch. And exposing them through APIs with appropriate authorization and access controls.
 - 🌱 I’m learning about advanced algorithms and diving deeper into cloud-native data engineering solutions.
 - 👯 I’m looking to collaborate on projects that involve big data processing, real-time streaming, or anything that pushes the limits of data technology.
